@@ -2,6 +2,7 @@ from flask import Flask, render_template, request, redirect, session
 from database import init_db, get_user
 
 app = Flask(__name__)
+# Intentionally insecure secret for this security laboratory.
 app.secret_key = "dev-secret-key"
 
 

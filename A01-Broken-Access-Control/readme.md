@@ -37,7 +37,7 @@ The objectives of this laboratory are to:
 * SQLite
 * HTML
 * Web Browser
-*Burp Suite
+* Burp Suite
 
 
 ### Application
